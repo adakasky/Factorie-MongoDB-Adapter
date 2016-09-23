@@ -60,8 +60,6 @@ object Adapter {
         }
 
         docs.show()
-        val ob = docs.collection.findOne
-        println(ob)
     }
 }
 
