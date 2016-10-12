@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3eaaa347-b73b-4183-a7eb-36be53a67323" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/util/NonVocWordFinder.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/util/ObjectVisualization.scala" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/run-class.sh" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/util/DownloadChemicalDB.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/run.sh" afterPath="$PROJECT_DIR$/bin/run.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/adapter/Adapter.scala" afterPath="$PROJECT_DIR$/src/main/scala/adapter/Adapter.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/util/ObjectVisualization.scala" afterPath="$PROJECT_DIR$/src/main/scala/util/ObjectVisualization.scala" />
     </list>
     <ignored path="project-name.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,11 +29,9 @@
       <file leaf-file-name="Adapter.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/adapter/Adapter.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
+            <state relative-caret-position="969">
               <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
-              <folding>
-                <element signature="e#17#63#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -45,11 +39,9 @@
       <file leaf-file-name="NonVocWordFinder.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/util/NonVocWordFinder.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="19">
               <caret line="15" column="164" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="164" />
-              <folding>
-                <element signature="e#14#40#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -57,8 +49,20 @@
       <file leaf-file-name="ObjectVisualization.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/util/ObjectVisualization.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+            <state relative-caret-position="285">
+              <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+              <folding>
+                <element signature="e#14#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DownloadChemicalDB.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/util/DownloadChemicalDB.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="165" selection-start-line="10" selection-start-column="165" selection-end-line="10" selection-end-column="165" />
               <folding>
                 <element signature="e#14#40#0" expanded="true" />
               </folding>
@@ -71,10 +75,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
               <caret line="21" column="111" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="111" />
-              <folding>
-                <element signature="n#!!doc" expanded="false" />
-                <element signature="e#57#85#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -84,9 +85,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="3515">
               <caret line="194" column="54" selection-start-line="194" selection-start-column="54" selection-end-line="194" selection-end-column="54" />
-              <folding>
-                <element signature="e#28#53#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -96,9 +95,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
               <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-              <folding>
-                <element signature="n#!!doc" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -108,10 +105,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
               <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-              <folding>
-                <element signature="n#!!doc" expanded="false" />
-                <element signature="e#779#822#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -121,10 +115,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
               <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
-              <folding>
-                <element signature="n#!!doc" expanded="false" />
-                <element signature="e#777#817#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -135,6 +126,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Scala Object" />
+        <option value="Package Object" />
       </list>
     </option>
   </component>
@@ -165,6 +157,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/NonVocWordFinder.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/util/NonVocWordFinder.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/adapter/Adapter.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/util/DownloadChemicalDB.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/util/ObjectVisualization.scala" />
       </list>
     </option>
@@ -324,6 +317,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -446,16 +441,14 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TAC-KBP/tac2016/tackbp2016-kb" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -464,7 +457,7 @@
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/scala" />
     <property name="nodejs_interpreter_path" value="D:\nodejs\node" />
   </component>
-  <component name="RunManager" selected="Application.NonVocWordFinder">
+  <component name="RunManager" selected="Application.NewLineReplacing">
     <configuration default="false" name="Adapter" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -495,6 +488,26 @@
     <configuration default="false" name="NonVocWordFinder" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="util.NonVocWordFinder" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Factorie-MongoDB-Adapter" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="NewLineReplacing" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="util.NewLineReplacing" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1202,16 +1215,18 @@
       <envs />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.Adapter" />
       <item index="1" class="java.lang.String" itemvalue="Scala Console.Scala Console" />
       <item index="2" class="java.lang.String" itemvalue="Application.NonVocWordFinder" />
+      <item index="3" class="java.lang.String" itemvalue="Application.NewLineReplacing" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.NonVocWordFinder" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Adapter" />
-        <item index="2" class="java.lang.String" itemvalue="Scala Console.Scala Console" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.NewLineReplacing" />
+        <item index="1" class="java.lang.String" itemvalue="Application.NonVocWordFinder" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Adapter" />
+        <item index="3" class="java.lang.String" itemvalue="Scala Console.Scala Console" />
       </list>
     </recent_temporary>
   </component>
@@ -1326,12 +1341,16 @@
       <workItem from="1474001302032" duration="4488000" />
       <workItem from="1474517892920" duration="757000" />
       <workItem from="1474566225817" duration="381000" />
-      <workItem from="1474649636191" duration="1107000" />
+      <workItem from="1474649636191" duration="1817000" />
+      <workItem from="1475684149524" duration="4201000" />
+      <workItem from="1475779326194" duration="679000" />
+      <workItem from="1476239032040" duration="764000" />
+      <workItem from="1476240907462" duration="1093000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146306000" />
+    <option name="totallyTimeSpent" value="153753000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1350,15 +1369,15 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32731378" sideWeight="0.5021436" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3167028" sideWeight="0.5042644" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32719395" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32608697" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3173913" sideWeight="0.49785638" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32502708" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3167028" sideWeight="0.49573562" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25373134" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25586355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1398,14 +1417,6 @@
     </buildFile>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Adapter.scala" />
-    <entry file="jar://$PROJECT_DIR$/src/main/resources/factorie_2.11-1.1-sources.jar!/cc/factorie/db/mongo/CubbieMongoTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/src/main/resources/factorie_2.11-1.1-sources.jar!/cc/factorie/app/nlp/DocumentStore.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1538,10 +1549,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#779#822#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1632,9 +1640,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1656,10 +1662,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#777#817#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1695,9 +1698,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3515">
           <caret line="194" column="54" selection-start-line="194" selection-start-column="54" selection-end-line="194" selection-end-column="54" />
-          <folding>
-            <element signature="e#28#53#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1726,27 +1727,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="21" column="111" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="111" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#57#85#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/adapter/Adapter.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
+        <state relative-caret-position="969">
           <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
-          <folding>
-            <element signature="e#17#63#0" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/util/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/util/NonVocWordFinder.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="19">
           <caret line="15" column="164" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="164" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/util/DownloadChemicalDB.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="165" selection-start-line="10" selection-start-column="165" selection-end-line="10" selection-end-column="165" />
           <folding>
             <element signature="e#14#40#0" expanded="true" />
           </folding>
@@ -1755,8 +1767,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/util/ObjectVisualization.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+        <state relative-caret-position="285">
+          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
           <folding>
             <element signature="e#14#40#0" expanded="true" />
           </folding>
