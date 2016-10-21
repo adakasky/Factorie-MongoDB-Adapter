@@ -8,7 +8,7 @@ import com.mongodb.{BasicDBList, MongoClient}
 /**
   * Created by Robert on 2016/10/11.
   */
-//  mvn exec:java -Dexec.mainClass="util.ObjectVisualization" -Dexec.args="--inputDB predsynth --input-collection chemical_db --port-num 27017 --port-name localhost"
+//  mvn exec:java -Dexec.mainClass="util.DownloadChemicalDB" -Dexec.args="--inputDB predsynth --input-collection chemical_db --port-num 27017 --port-name localhost"
 class DownloadChemicalDB {
     def main(args: Array[String]): Unit = {
         val opts = new AdapterOptions
